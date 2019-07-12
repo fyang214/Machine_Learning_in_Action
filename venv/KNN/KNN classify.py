@@ -1,5 +1,4 @@
-import KNN
-
+from KNN import KNN
 
 # group, labels = KNN.createDateSet()
 
